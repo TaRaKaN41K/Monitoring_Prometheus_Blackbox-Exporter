@@ -12,8 +12,12 @@ blackbox_exporter --config.file=blackbox.yml
 prometheus --config.file=prometheus.yml
 ```
 
+**Некоторые метрики доступности**
 ![Некоторые метрики доступности](assets/images/metrics.jpg)
+
+**Таргеты**
 ![Таргеты](assets/images/targets.jpg)
+
 
 ## ```blackbox.yml```
 
