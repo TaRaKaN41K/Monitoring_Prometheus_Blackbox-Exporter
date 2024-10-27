@@ -1,4 +1,4 @@
-# Monitoring ptsecurity.com Availability with Prometheus and Blackbox Exporter
+# Monitoring `ptsecurity.com` Availability with Prometheus and Blackbox Exporter
 
 ## Запуск blackbox_exporter
 
